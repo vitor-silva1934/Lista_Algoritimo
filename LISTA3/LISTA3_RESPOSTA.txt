@@ -1,0 +1,9 @@
+(a) Falso
+(b) Falso
+(c) Verdadeiro
+(d) Verdadeiro
+(e) Verdadeiro
+(f) Verdadeiro
+(g) Falso
+(h) Falso
+(i) Falso
